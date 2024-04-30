@@ -1,6 +1,6 @@
 .projectsContainer {
   width: 100%;
-  color: #e09bc4;
+  color: #f877c4;
   text-align: center;
   padding-top: 2rem;
 }
@@ -8,7 +8,7 @@
 .projectsTitle {
   padding-top: 4rem;
   font-size: 2rem;
-  color: #e09bc4;
+  color: #f877c4;
   text-align:center
 }
 
@@ -48,7 +48,7 @@
 }
 
 .cardRepo {
-  background: #e09bc4;
+  background: #f877c4;
   width: 30%;
   height: 80%;
   padding: 2rem;
